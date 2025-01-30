@@ -1,7 +1,9 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
 <p align="center">
-    <img src="https://c.tenor.com/ITc1hNBSH_wAAAAd/tenor.gif" width="120" height="auto" align="center" />
+    <a href="https://www.instagram.com/bdn_bnj/">
+        <img src="https://media.tenor.com/0GYZkkkSzRQAAAAi/kohaku-tsukihime.gif" width="120" height="auto" />
+    </a>
 </p>
 
 <br>
