@@ -1,6 +1,18 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
-![Guitar Amp Electric Guitar Sticker](https://media.tenor.com/images/a459f25de0b8f62fcbd33c3763f63b2f/tenor.gif)
+<div align="center">
+        <a href="https://www.instagram.com/bdn_bnj/">
+            <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
+                height="120" />
+        </a>
+            <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+    </p>
+</div>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3"
+        alt="Profile Trophy">
+</p>
 
 <div>
 <p align="center">
