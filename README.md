@@ -1,7 +1,7 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
 <p align="center">
-    <img src="https://c.tenor.com/RfwaQU3_U1UAAAAC/tenor.gif" width="120" height="auto" align="center" />
+    <img src="https://c.tenor.com/ITc1hNBSH_wAAAAd/tenor.gif" width="200" height="auto" align="center" />
 </p>
 
 <br>
