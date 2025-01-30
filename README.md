@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&column=3"
+    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
         alt="Profile Trophy">
 </p>
 
