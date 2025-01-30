@@ -2,7 +2,8 @@
 
 <div align="center">
         <a href="https://www.instagram.com/bdn_bnj/">
-            <img src="https://media.tenor.com/images/0f7401d12d7f688cde0cfbf522497e0a/tenor.gif](https://tenor.com/id/view/kohaku-tsukihime-mahou-shoujo-amber-magical-amber-gif-20750208" alt="Kohaku Tsukihime Sticker" width="600" height="auto">
+            <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
+                height="120" />
         </a>
 </div>
 
