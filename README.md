@@ -1,10 +1,7 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
 <div align="center">
-        <a href="https://www.instagram.com/bdn_bnj/">
-            <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
-                height="120" />
-        </a>
+        <div class="tenor-gif-embed" data-postid="13171095" data-share-method="host" data-aspect-ratio="0.941606" data-width="100%"><a href="https://tenor.com/view/guitar-amp-electric-guitar-bass-hatsune-miku-dance-gif-13171095">Guitar Amp Electric Guitar Sticker</a>from <a href="https://tenor.com/search/guitar+amp-stickers">Guitar Amp Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <p align="center">
