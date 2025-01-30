@@ -1,8 +1,6 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
-<p align="center">
-   <img src="https://media.tenor.com/images/a459f25de0b8f62fcbd33c3763f63b2f/tenor.gif" alt="Guitar Amp Electric Guitar Sticker">
-</p>
+![Guitar Amp Electric Guitar Sticker](https://media.tenor.com/images/a459f25de0b8f62fcbd33c3763f63b2f/tenor.gif)
 
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3"
