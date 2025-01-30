@@ -16,7 +16,7 @@
 
 <div align="center">
     <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-    <p align="center">
+    <p align="left">
       <table border="0">
         <tr>
           <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
