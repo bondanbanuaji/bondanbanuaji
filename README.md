@@ -2,13 +2,12 @@
 
 <p align="center">
     <img src="https://media.tenor.com/0GYZkkkSzRQAAAAi/kohaku-tsukihime.gif" width="120" height="auto" align="center" />
-</p>
-
-<div align="center">
+    <div align="center">
     <a href="https://www.instagram.com/bdn_bnj/">
         <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600" height="120" />
     </a>
 </div>
+</p>
 
 <br>
 <p align="center">
