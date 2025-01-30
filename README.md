@@ -1,7 +1,7 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
 <div align="center">
-        <div class="tenor-gif-embed" data-postid="13171095" data-share-method="host" data-aspect-ratio="0.941606" data-width="100%"><a href="https://tenor.com/view/guitar-amp-electric-guitar-bass-hatsune-miku-dance-gif-13171095">Guitar Amp Electric Guitar Sticker</a>from <a href="https://tenor.com/search/guitar+amp-stickers">Guitar Amp Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        <img src="https://media.tenor.com/images/a459f25de0b8f62fcbd33c3763f63b2f/tenor.gif" alt="Guitar Amp Electric Guitar Sticker">
 </div>
 
 <p align="center">
