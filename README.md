@@ -3,7 +3,7 @@
 <div align="center">
         <a href="https://www.instagram.com/bdn_bnj/">
             <img src="https://media.tenor.com/0GYZkkkSzRQAAAAi/kohaku-tsukihime.gif" width="600"
-                height="120" />
+                height="auto" />
         </a>
 </div>
 
