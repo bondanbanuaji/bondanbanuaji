@@ -1,5 +1,5 @@
 
-<h1 style="margin-top: 20px; justify-content: center; align-items:center;">Logic aja dulu, Sintaks belakangan ~</h2>
+<h1 style="margin-top: 20px; justify-content: center; align-items:center;">Logic aja dulu, Sintaks belakangan ~</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
