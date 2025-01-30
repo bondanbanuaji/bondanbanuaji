@@ -2,7 +2,7 @@
 
 <div align="center">
         <a href="https://www.instagram.com/bdn_bnj/">
-            <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
+            <img src="https://media.tenor.com/0GYZkkkSzRQAAAAi/kohaku-tsukihime.gif" width="600"
                 height="120" />
         </a>
 </div>
