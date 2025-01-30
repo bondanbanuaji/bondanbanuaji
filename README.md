@@ -1,12 +1,7 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
 <p align="center">
-    <img src="https://media.tenor.com/0GYZkkkSzRQAAAAi/kohaku-tsukihime.gif" width="120" height="auto" align="center" />
-    <div align="center">
-    <a href="https://www.instagram.com/bdn_bnj/">
-        <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600" height="120" />
-    </a>
-</div>
+    <img src="https://c.tenor.com/RfwaQU3_U1UAAAAC/tenor.gif" width="120" height="auto" align="center" />
 </p>
 
 <br>
@@ -20,7 +15,12 @@
     <b> 🧑‍💻 Freelance | 🎨 Student | 🚀 Thirst for knowledge </b>
 </p>
 </div>
-
+<br>
+<div align="center">
+    <a href="https://www.instagram.com/bdn_bnj/">
+        <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600" height="120" />
+    </a>
+</div>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
