@@ -1,14 +1,11 @@
 <h1 align="center">It's everything gonna be alright 🌟</h1>
 
 <div align="center">
-    <p align="left">
         <a href="https://www.instagram.com/bdn_bnj/">
             <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
                 height="120" />
         </a>
-        <div align="right">
             <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-        </div>
     </p>
 </div>
 
