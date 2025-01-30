@@ -15,6 +15,7 @@
 </p>
 
 <div align="center">
+    <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
     <p align="left">
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -28,5 +29,4 @@
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
         <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
     </p>
-    <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
