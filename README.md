@@ -14,6 +14,7 @@
     <b> 🧑‍💻 Freelance | 🎨 Student | 🚀 Thirst for knowledge </b>
 </p>
 
+<br>
 <div align="center">
     <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
     <p align="left">
