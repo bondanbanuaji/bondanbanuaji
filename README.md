@@ -5,7 +5,6 @@
             <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
                 height="120" />
         </a>
-            <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
 <div>
