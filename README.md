@@ -2,8 +2,7 @@
 
 <div align="center">
         <a href="https://www.instagram.com/bdn_bnj/">
-            <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600"
-                height="120" />
+            <img src="https://media.tenor.com/images/0f7401d12d7f688cde0cfbf522497e0a/tenor.gif" alt="Kohaku Tsukihime Sticker" width="600" height="auto">
         </a>
 </div>
 
