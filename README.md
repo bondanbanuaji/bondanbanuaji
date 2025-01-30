@@ -4,9 +4,12 @@
         <a href="https://www.instagram.com/bdn_bnj/">
             <img src="https://media.tenor.com/0GYZkkkSzRQAAAAi/kohaku-tsukihime.gif" width="120"
                 height="auto" />
+            <img src="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3"
+                alt="Profile Trophy">
         </a>
 </div>
 
+<br>
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3"
         alt="Profile Trophy">
