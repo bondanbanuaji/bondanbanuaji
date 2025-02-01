@@ -12,6 +12,8 @@
         alt="Profile Trophy">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bondanbanuaji)]
+
 <div>
 <p align="center">
     <b> 🧑‍💻 Freelance | 🎨 Student | 🚀 Thirst for knowledge </b>
