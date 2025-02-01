@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&margin-w=10&column=3"
+    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-         w=10&column=3"
         alt="Profile Trophy">
 </p>
 
@@ -38,4 +38,6 @@
     <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python" alt="Python" />
     <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"
         alt="Cisco">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"             
+        alt="Docker">
 </p>
