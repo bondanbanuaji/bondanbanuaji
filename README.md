@@ -8,11 +8,9 @@
 
 <br>
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
+    <img src="https://github-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&margin-w=10&column=3"
         alt="Profile Trophy">
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bondanbanuaji)]
 
 <div>
 <p align="center">
