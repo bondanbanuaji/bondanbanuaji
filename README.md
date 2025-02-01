@@ -8,11 +8,11 @@
 
 <br>
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=3"
+    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
         alt="Profile Trophy">
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=3)
 
 <div>
 <p align="center">
