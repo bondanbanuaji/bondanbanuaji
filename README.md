@@ -9,7 +9,7 @@
 <br>
 <p align="center">
     <img src="https://github-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&margin-w=10&column=3"
-        alt="Profile Trophy">
+        alt="profile trophy">
 </p>
 
 <div>
