@@ -12,8 +12,6 @@
         alt="Profile Trophy">
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=3)
-
 <div>
 <p align="center">
     <b> 🧑‍💻 Freelance | 🎨 Student | 🚀 Thirst for knowledge </b>
