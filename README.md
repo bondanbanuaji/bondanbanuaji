@@ -2,8 +2,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/bdn_bnj/">
-       <img src="https://media1.tenor.com/m/VnHIFsiGgY4AAAAd/naruto-run.gif" width="120" alt="Naruto Run GIF">
-        <iframe src="https://gifer.com/embed/Paw" width=120 height=auto frameBorder="0" allowFullScreen></iframe>
+       <div class="tenor-gif-embed" data-postid="21588184" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/edu-san-stickers-pro-gif-21588184">Edu San Stickers Pro Sticker</a>from <a href="https://tenor.com/search/edu+san+stickers+pro-stickers">Edu San Stickers Pro Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     </a>
 </p>
 
