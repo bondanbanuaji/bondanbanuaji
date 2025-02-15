@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/bdn_bnj/">
-       ![Naruto Run](https://media.tenor.com/7vZoYwbBW2YAAAAC/naruto-run-ninja.gif)
+       <img src="https://media1.tenor.com/m/VnHIFsiGgY4AAAAd/naruto-run.gif" width="120" alt="Naruto Run GIF">
     </a>
 </p>
 
