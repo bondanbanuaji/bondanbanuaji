@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/bdn_bnj/">
-       <div class="tenor-gif-embed" data-postid="21588184" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/edu-san-stickers-pro-gif-21588184">Edu San Stickers Pro Sticker</a>from <a href="https://tenor.com/search/edu+san+stickers+pro-stickers">Edu San Stickers Pro Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+       <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" height="auto" />
     </a>
 </p>
 
