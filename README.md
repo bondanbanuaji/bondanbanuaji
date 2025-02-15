@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/bdn_bnj/">
-        <img src="https://tenor.com/id/view/naruto-run-ninja-gif-15371317" width="120" alt="Naruto Run GIF">
+        <div class="tenor-gif-embed" data-postid="15371317" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/naruto-run-ninja-gif-15371317">Naruto Run GIF</a>from <a href="https://tenor.com/search/naruto-gifs">Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     </a>
 </p>
 
