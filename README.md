@@ -1,4 +1,4 @@
-<h1 align="center">It's everything gonna be alright 🌟</h1>
+<h1 align="center">It's everything gonna be alright! 🌟</h1>
 
 <p align="center">
     <a href="https://www.instagram.com/bdn_bnj/">
