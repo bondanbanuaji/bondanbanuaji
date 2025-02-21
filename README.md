@@ -27,8 +27,7 @@
 <div align="left">
   <a href="https://www.instagram.com/bdn_bnj/">
     <img src="https://media.tenor.com/2LbSfAwiPuwAAAAi/walking-walk.gif"
-        width="120" 
-        height="120"
+        height="150"
         align="right"
         />
   </a>
