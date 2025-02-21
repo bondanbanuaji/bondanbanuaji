@@ -23,7 +23,7 @@
 </div>
 
 <br>
-<div width="600">
+<div width="200">
 <div align="left">
   <a href="https://www.instagram.com/bdn_bnj/">
     <img src="https://media.tenor.com/2LbSfAwiPuwAAAAi/walking-walk.gif"
