@@ -17,8 +17,8 @@
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
       <img
         src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624384600709643"
-        width="100"
-        height="100"
+        width="300"
+        height="60"
       />
     </a>
 </div>
