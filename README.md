@@ -25,10 +25,10 @@
 
 <br>
 <div align="left">
-  <a href="https://www.instagram.com/bdn_bnj/">
+  <a href="https://www.instagram.com/bdn_bnj/" align="right">
     <img src="https://media.tenor.com/2LbSfAwiPuwAAAAi/walking-walk.gif"
         width="120" 
-        height="120" 
+        height="120"
         />
   </a>
   <span align="left">
