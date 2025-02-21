@@ -26,7 +26,10 @@
 <br>
 <div align="left">
   <a href="https://www.instagram.com/bdn_bnj/">
-    <iframe id="js_video_iframe" src="https://jumpshare.com/embed/LDYCIAuHeZFy9hKm0oJt" frameborder="0" width="110" height="120" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    <img src="https://media.tenor.com/2LbSfAwiPuwAAAAi/walking-walk.gif"
+        width="120" 
+        height="120" 
+        />
   </a>
   <span align="left">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
