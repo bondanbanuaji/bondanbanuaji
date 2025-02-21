@@ -1,5 +1,15 @@
 <h1 align="center">It's everything gonna be alright! 🌟</h1>
 
+<div align="center" width="auto" height="auto">  
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
+      <img
+        src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624384600709643"
+        width="600"
+        height="120"
+      />
+    </a>
+</div>
+
 <br clear="both">
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
@@ -10,17 +20,6 @@
 <p align="center">
     <b> 🧑‍💻 Freelance | 🎨 Student | 🚀 Thirst for knowledge </b>
 </p>
-</div>
-<br>
-
-<div align="center" width="auto" height="auto">  
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
-      <img
-        src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624384600709643"
-        width="600"
-        height="120"
-      />
-    </a>
 </div>
 
 <br>
