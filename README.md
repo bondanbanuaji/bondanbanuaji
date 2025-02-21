@@ -19,9 +19,13 @@
 </div>
 <br>
 
-<div align="center" width="150" height="150">
-    <a href="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104">
-        <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600" height="120" />
+<div align="center" width="150" height="150">  
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
+      <img
+        src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624384600709643"
+        width="600"
+        height="120"
+      />
     </a>
 </div>
 
