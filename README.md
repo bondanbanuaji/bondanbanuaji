@@ -19,7 +19,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="center" width="150" height="150">
     <a href="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104">
         <img src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624173090352104" width="600" height="120" />
     </a>
