@@ -25,9 +25,9 @@
 
 <div align="center">
   <a href="https://www.instagram.com/bdn_bnj/">
-    <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" height="auto" />
+    <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" height="auto" align="right" />
   </a>
-  <span>
+  <span align="left">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge&logo=ai" alt="AI" />
@@ -43,7 +43,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="discordapp.com/users/1000341282037702696">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
