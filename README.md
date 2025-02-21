@@ -1,12 +1,6 @@
 <h1 align="center">It's everything gonna be alright! 🌟</h1>
 
-<p align="center">
-    <a href="https://www.instagram.com/bdn_bnj/">
-       <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" height="auto" />
-    </a>
-</p>
-
-<br>
+<br clear="both">
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
         alt="profile trophy">
@@ -29,8 +23,13 @@
     </a>
 </div>
 
-<br clear="both">
-<p align="center">
+<p align="right">
+    <a href="https://www.instagram.com/bdn_bnj/">
+       <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" height="auto" />
+    </a>
+</p>
+
+<p align="left">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
         alt="JavaScript">
@@ -48,8 +47,7 @@
         alt="Docker">
 </p>
 
-<br clear="both">
-<div align="center">
+<div align="left">
   <a href="discordapp.com/users/1000341282037702696">
     <img
       src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
