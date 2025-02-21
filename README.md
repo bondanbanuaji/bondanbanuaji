@@ -28,6 +28,7 @@
   <a href="https://www.instagram.com/bdn_bnj/">
     <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" align="right" />
   </a>
+<br><br><br>
   <span align="left">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
