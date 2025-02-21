@@ -23,7 +23,7 @@
     </a>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/bdn_bnj/">
     <img src="https://media.tenor.com/qRH2Knm_tOUAAAAj/edu-san-stickers-pro.gif" width="120" height="auto" align="right" />
   </a>
