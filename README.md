@@ -24,7 +24,7 @@
       <img
         src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624384600709643"
         width="600"
-        height="120"
+        height="100"
       />
     </a>
 </div>
