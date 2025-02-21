@@ -64,4 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu bondanbanuaji>/<seu bondanbanuaji>/blob/output/github-contribution-grid-snake2.svg)
