@@ -29,7 +29,7 @@
     </a>
 </div>
 
-<br>
+<br clear="both">
 <p align="center">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
@@ -48,7 +48,7 @@
         alt="Docker">
 </p>
 
-<br>
+<br clear="both">
 <div align="center">
   <a href="discordapp.com/users/1000341282037702696">
     <img
