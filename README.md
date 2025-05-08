@@ -18,20 +18,14 @@
 
 <div>
 <p align="center">
-    <b> 🧑‍💻 Freelance | 🎨 Student | 🚀 Thirst for knowledge </b>
+    <b> | 🧑‍💻 Freelance | </b>
 </p>
 </div>
 
 <br>
-<div align="left">
-  <a href="https://www.instagram.com/bdn_bnj/">
-    <img src="https://media.tenor.com/2LbSfAwiPuwAAAAi/walking-walk.gif"
-        height="150"
-        align="right"
-        />
-  </a>
+<div align="center">
 <br>
-  <span align="left">
+  <span align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge&logo=ai" alt="AI" />
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
