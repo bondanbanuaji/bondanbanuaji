@@ -12,9 +12,9 @@
 
 <br clear="both">
 <p align="center">
-    <!-- <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
-        alt="profile trophy"> -->
-        <img src="./Card.png" alt="Banner" width="600"/>
+    <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
+        alt="profile trophy">
+        <!-- <img src="./Card.png" alt="Banner" width="600"/> -->
 </p>
 
 <br>
