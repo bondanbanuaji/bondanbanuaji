@@ -7,7 +7,7 @@
         width="600"
         height="120"
       /> -->
-        <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="500" width="100" alt="Zero Two GIF" />
+        <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="350" width="100" alt="Zero Two GIF" />
     </a>
 </div>
 
@@ -16,6 +16,10 @@
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3"
         alt="profile trophy">
         <!-- <img src="./Card.png" alt="Banner" width="600"/> -->
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondanbanuaji&theme=radical" height="165" />
 </p>
 
 <br>
