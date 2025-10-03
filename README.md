@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Banner Zero Two -->
-  <img src="https://i.imgur.com/EK7Z9zD.png" alt="Zero Two Banner" width="100%" />
-</p>
-
 <h1 align="center">It's everything gonna be alright! 🌟</h1>
 
 <!-- GIF Zero Two -->
@@ -29,7 +24,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 
 <div align="center">
   <span align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -46,16 +41,7 @@
 
 ---
 
-## 🎧 Now Playing
-<p align="center">
-  <a href="https://music.youtube.com/watch?v=SX_ViT4Ra7k">
-    <img src="https://img.shields.io/badge/🎶%20Now%20Playing-Lemon%20by%20Kenshi%20Yonezu-ff6ec7?style=for-the-badge&logo=youtube-music&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
+## 🌐
 <div align="center">
   <a href="https://discordapp.com/users/1000341282037702696">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
