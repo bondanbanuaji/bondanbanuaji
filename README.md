@@ -1,30 +1,20 @@
 <h1 align="center">It's everything gonna be alright! 🌟</h1>
 
-<!-- GIF Zero Two -->
 <div align="center" width="auto" height="auto">  
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
         <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="200" alt="Zero Two GIF" />
     </a>
 </div>
 
----
-
-## 🏆 Achievements
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3" alt="profile trophy">
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&title_color=ff6ec7&icon_color=ff2e63&text_color=f1f1f1&bg_color=121316" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondanbanuaji&theme=radical&background=121316&ring=ff6ec7&fire=ff2e63&currStreakLabel=ff6ec7" height="165" />
 </p>
 
----
-
-## 💻 
 <div align="center">
   <span align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -39,9 +29,6 @@
   </span>
 </div>
 
----
-
-## 🌐
 <div align="center">
   <a href="https://discordapp.com/users/1000341282037702696">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
@@ -56,9 +43,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/ayv4wbF-pJYAAAAC/zero-two.gif" width="300" />
-</p>
