@@ -17,12 +17,6 @@
         ![Banner](./Card.png)
 </p>
 
-<div>
-<p align="center">
-    <b> | 🧑‍💻 Freelance 🧑‍💻 | </b>
-</p>
-</div>
-
 <br>
 <div align="center">
 <br>
