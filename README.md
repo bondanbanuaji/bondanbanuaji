@@ -7,7 +7,7 @@
         width="600"
         height="120"
       /> -->
-        <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="300" height="100" alt="Zero Two GIF" />
+        <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="300" alt="Zero Two GIF" />
     </a>
 </div>
 
