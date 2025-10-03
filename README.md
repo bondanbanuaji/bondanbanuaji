@@ -22,6 +22,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondanbanuaji&theme=radical" height="165" />
 </p>
 
+## 🎧 Now Playing
+[![Spotify](https://img.shields.io/badge/Spotify-Lemon%20by%20Kenshi%20Yonezu-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL)
+
 <br>
 <div align="center">
 <br>
