@@ -2,11 +2,14 @@
 
 <div align="center" width="auto" height="auto">  
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
-      <img
+      <!-- <img
         src="https://render.gitanimals.org/lines/bondanbanuaji?pet-id=672624384600709643"
         width="600"
         height="120"
-      />
+      /> -->
+      <p align="center">
+        <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="500" width="100" alt="Zero Two GIF" />
+      </p>
     </a>
 </div>
 
