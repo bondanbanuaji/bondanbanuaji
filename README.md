@@ -31,10 +31,6 @@
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3" alt="profile trophy">
 </p>
 
-<!--START_SECTION:waka-box-->
-![WakaTime](https://gist.githubusercontent.com/bondanbanuaji/a12204a57a653ac595830375ca5fde64/raw/waka-stats.md)
-<!--END_SECTION:waka-box-->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&title_color=ff6ec7&icon_color=ff2e63&text_color=f1f1f1&bg_color=121316" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondanbanuaji&theme=radical&background=121316&ring=ff6ec7&fire=ff2e63&currStreakLabel=ff6ec7" height="165" />
