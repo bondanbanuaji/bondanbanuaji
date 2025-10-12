@@ -10,6 +10,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=00FF7F&style=flat-square" alt="Profile Views" width="120" />
+
+  <p style="font-family: 'Courier New', monospace; color:green; font-size:14px;">
+    🟢 Counting every curious soul visiting this page...
+  </p>
+
 </div>
 
 ---
