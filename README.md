@@ -1,5 +1,9 @@
 <h1 align="center">It's everything gonna be alright! 🌟</h1>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+&nbsp;&nbsp;&nbsp;
+
 <div align="center" width="auto" height="auto">  
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bondanbanuaji&utm_content=line">
         <img src="https://media.tenor.com/oD1FwzpmAqMAAAAi/zero-two-zerotwo.gif" width="200" alt="Zero Two GIF" />
