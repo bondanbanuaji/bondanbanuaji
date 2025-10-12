@@ -1,4 +1,4 @@
-<h1 align="center">It's everything gonna be alrigh! 🌟</h1>
+<h1 align="center">It's everything gonna be alright! 🌟</h1>
 &nbsp;&nbsp;&nbsp;
 
 
@@ -30,6 +30,9 @@
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3" alt="profile trophy">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&title_color=ff6ec7&icon_color=ff2e63&text_color=f1f1f1&bg_color=121316" height="165" />
