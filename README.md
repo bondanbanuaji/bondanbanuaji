@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=VISITOR%20COUNT&color=00FF7F&style=flat-square" alt="Profile Views" width="160" />
+  <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=00FF7F&style=flat-square" alt="Profile Views" width="160" />
 </div>
 
 ---
