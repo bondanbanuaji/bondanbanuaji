@@ -6,6 +6,8 @@
     </a>
 </div>
 
+<img src="https://profile-counter.glitch.me/bondanbanuaji/count.svg" alt="Visitor Count" />
+
 ---
 
 <p align="center">
