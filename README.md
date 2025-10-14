@@ -78,6 +78,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 &nbsp;&nbsp;&nbsp;
 
+<div align="center">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="ytmusic">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify">
+</div>
+&nbsp;&nbsp;&nbsp;
 <div align="center"> 
    <a href="https://app.daily.dev/bxoxbxa"><img src="https://api.daily.dev/devcards/v2/eIxGlpO18REFcX7VUCE03.png?type=default&r=jvx" width="235" alt="boba's Dev Card"/></a><img width="12" /> <a href="https://open.spotify.com/user/7btlm98azf3nuppml5xk50nkc"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=7&unique=true"" alt="Spotify recently played" /> </a>
 </div>
