@@ -95,7 +95,7 @@
       src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=7&unique=true" 
       alt="Spotify recently played"
       width="250"
-      height="250"
+      height="350"
     />
   </a>
 </p>
