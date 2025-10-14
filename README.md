@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=00FF7F&style=flat-square" alt="Profile Views" width="120" />
+  <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=FF1493&style=flat-square" alt="Profile Views" width="120" />
 
   <p align="center">
       <br>
