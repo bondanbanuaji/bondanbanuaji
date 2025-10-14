@@ -14,8 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=00FF7F&style=flat-square" alt="Profile Views" width="120" />
 
   <p align="center">
+      <br>
     <img src="https://media.tenor.com/yjOrdcOkLPUAAAAj/green-dot.gif" width="20" alt="green" />
-    <p>Counting every curious soul visiting this page...</p>
+    Counting every curious soul visiting this page...
   </p>
 
 </div>
