@@ -70,5 +70,5 @@
 &nbsp;&nbsp;&nbsp;
 
 <div align="center"> 
-   <a href="https://app.daily.dev/bxoxbxa"><img src="https://api.daily.dev/devcards/v2/eIxGlpO18REFcX7VUCE03.png?type=default&r=jvx" width="235" alt="boba's Dev Card"/></a><img width="12" /> <a href="https://open.spotify.com/user/7btlm98azf3nuppml5xk50nkc"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=5&unique=true"" alt="Spotify recently played" /> </a>
+   <a href="https://app.daily.dev/bxoxbxa"><img src="https://api.daily.dev/devcards/v2/eIxGlpO18REFcX7VUCE03.png?type=default&r=jvx" width="235" alt="boba's Dev Card"/></a><img width="12" /> <a href="https://open.spotify.com/user/7btlm98azf3nuppml5xk50nkc"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=7&unique=true"" alt="Spotify recently played" /> </a>
 </div>
