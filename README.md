@@ -13,11 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=00FF7F&style=flat-square" alt="Profile Views" width="120" />
 
-  <p align="center" style="
-    font-family: 'JetBrains Mono', monospace;
-    color: #32CD32;
-    font-size: 14px;
-  ">
+  <p align="center"">
     <img src="https://media.tenor.com/yjOrdcOkLPUAAAAj/green-dot.gif" width="40" alt="green" /> Counting every curious soul visiting this page...
   </p>
 
