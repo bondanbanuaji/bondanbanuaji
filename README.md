@@ -39,7 +39,7 @@
 <div align="center">
   <span align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-AI-ff6ec7?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+    <img src="https://img.shields.io/badge/-AI-ff6ec7?style=for-the-badge&logo=openai&logoColor=blue" alt="AI" />
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <br>
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
