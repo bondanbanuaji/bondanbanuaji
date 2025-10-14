@@ -84,12 +84,13 @@
 &nbsp;&nbsp;&nbsp;
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <a href="https://app.daily.dev/bxoxbxa">
         <img src="https://api.daily.dev/devcards/v2/eIxGlpO18REFcX7VUCE03.png?type=default&r=jvx" width="250" alt="boba's Dev Card"/>
       </a>
     </td>
-    <td align="center">
+    <td width="30"></td>
+    <td align="center" valign="top">
       <a href="https://open.spotify.com/user/7btlm98azf3nuppml5xk50nkc">
         <img 
           src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=7&unique=true" 
@@ -100,3 +101,4 @@
     </td>
   </tr>
 </table>
+
