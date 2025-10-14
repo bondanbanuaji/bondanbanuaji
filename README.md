@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/-AI-007BFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
       <br>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-      <img src="https://img.shields.io/badge/Android%cf0c08?style=for-the-badge&logo=android&logoColor=white" alt="android">
+      <img src="https://img.shields.io/badge/Android-069c10?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
       <br>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
