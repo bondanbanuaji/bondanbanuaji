@@ -36,6 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondanbanuaji&theme=radical&background=121316&ring=ff6ec7&fire=ff2e63&currStreakLabel=ff6ec7" height="165" />
 </p>
 
+  <span></span>
 <div align="center">
   <span align="center">
     <img src="https://img.shields.io/badge/-AI-007BFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
