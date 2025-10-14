@@ -59,7 +59,7 @@
     <br>
 <div align="center">
   <a href="https://discordapp.com/users/1000341282037702696">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=FF00FF&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7303fc&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/bdn_bnj/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF1493&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
