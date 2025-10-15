@@ -34,7 +34,7 @@
         <img 
           src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
           alt="GitHub Stats bondanbanuaji" 
-          height="150" 
+          height="220" 
         />
       </a>
     </td>
@@ -101,37 +101,69 @@
 
 &nbsp;&nbsp;&nbsp;
 
+  <span></span>
 <div align="center">
   <span align="center">
+    <img src="https://img.shields.io/badge/-AI-007BFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
+      <img src="https://img.shields.io/badge/Android-069c10?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      <br>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-AI-ff6ec7?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-    <br>
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  </span>
+      <br>
+    <img src="https://img.shields.io/badge/laravel-cf0c08?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next">
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
+      <br>
+    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco">
 </div>
-
+    <br>
 <div align="center">
+  <a href="https://www.linkedin.com/in/bondan-banuaji">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://discordapp.com/users/1000341282037702696">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7303fc&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/bdn_bnj/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF1493&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
   <a href="mailto:bondanbanuaji@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/bondan-banuaji">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+</div>
+
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+&nbsp;&nbsp;&nbsp;
+
+<div align="center">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="ytmusic">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify">
+</div>
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  <a href="https://app.daily.dev/bxoxbxa">
+    <img src="https://api.daily.dev/devcards/v2/eIxGlpO18REFcX7VUCE03.png?type=default&r=jvx" width="250" alt="boba's Dev Card"/>
   </a>
-</div>
-
-<br>
-
-<div align="center"> 
-  <a href="https://open.spotify.com/user/7btlm98azf3nuppml5xk50nkc"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=5&unique=true"" alt="Spotify recently played" /> </a> <img width="12" /> <a href="https://app.daily.dev/bxoxbxa"><img src="https://api.daily.dev/devcards/v2/eIxGlpO18REFcX7VUCE03.png?type=default&r=jvx" width="235" alt="boba's Dev Card"/></a>
-</div>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/7btlm98azf3nuppml5xk50nkc">
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=7btlm98azf3nuppml5xk50nkc&count=7&unique=true" 
+      alt="Spotify recently played"
+      width="300"
+      height="400"
+    />
+  </a>
+</p>
