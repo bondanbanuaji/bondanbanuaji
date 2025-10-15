@@ -74,18 +74,15 @@
         <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=bondanbanuaji&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
-    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
-      <picture>
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
-    </a></td>
+    <td colspan="2" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img 
+          src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=nord_dark" 
+          alt="Productive Time (UTC+7)" 
+          height="150" 
+        />
+      </a>
+    </td>
   </tr>
   <tr>
     <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
