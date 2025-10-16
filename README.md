@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=00FF7F&style=flat-square" alt="Profile Views" width="120" />
+  <img src="https://komarev.com/ghpvc/?username=bondanbanuaji&label=STRANGER%20&color=f500bc&style=flat-square" alt="Profile Views" width="120" />
 
   <p align="center" style="
     font-family: 'JetBrains Mono', monospace;
@@ -23,7 +23,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f500BC-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 &nbsp;&nbsp;&nbsp;
 
@@ -146,8 +146,12 @@
 &nbsp;&nbsp;&nbsp;
 
 <div align="center">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="ytmusic">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify">
+    <p>
+        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify">        
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="ytmusic">
+    </p>
 </div>
 
 &nbsp;&nbsp;&nbsp;
