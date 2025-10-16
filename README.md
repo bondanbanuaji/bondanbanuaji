@@ -15,8 +15,8 @@
 
   <p align="center" style="
     font-family: 'JetBrains Mono', monospace;
-    color: #32CD32;
-    font-size: 14px;
+    color: #f500BC;
+    font-size: 16px;
   ">
     🟢 Counting every curious soul visiting this page...
   </p>
