@@ -85,7 +85,7 @@
   </tr>
 <tr>
   <td colspan="6" align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&row=1&column=7&margin-w=8&no-bg=true&no-frame=true&theme=onedark" alt="GitHub Trophies" width="100%" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   </td>
 </tr>
 </table>
