@@ -83,19 +83,11 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-      <picture>
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
-      </picture>
-    </a></td>
-  </tr>
+<tr>
+  <td colspan="6" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&row=1&column=7&margin-w=8&no-bg=true&no-frame=true&theme=onedark" alt="GitHub Trophies" width="100%" />
+  </td>
+</tr>
 </table>
 
 &nbsp;&nbsp;&nbsp;
