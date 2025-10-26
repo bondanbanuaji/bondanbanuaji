@@ -32,7 +32,7 @@
 <td colspan="3" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=github_dark_dimmed"
+      src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=radical&hide_border=true&include_all_commits=falsse&number_format=long&count_private=false"
       alt="GitHub Stats for bondanbanuaji"
       border="0" />
   </a>
@@ -84,18 +84,17 @@
     </td>
   </tr>
 <tr>
-  <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+<td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
       <source
-        srcset="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=onedark&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+        srcset="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=6&row=1"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+        srcset="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=6&row=1"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-profile-trophy.vercel.app/?username=bondanbanuaji&theme=onedark&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+      <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=6&row=1" width="80%" />
     </picture>
   </a></td>
-</tr>
 </table>
 
 &nbsp;&nbsp;&nbsp;
