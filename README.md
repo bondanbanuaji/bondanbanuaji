@@ -27,6 +27,12 @@
 
 &nbsp;&nbsp;&nbsp; -->
 
+<div align="center">
+  
+  ![GitHub Trophies](https://count.getloli.com/@bondanbanuaji?name=bondanbanuaji&theme=booru-lewd&padding=10&offset=10&align=top&scale=2&pixelated=1&darkmode=auto)
+  
+</div>
+
 <table width="100%" align="center">
   <tr>
 <td colspan="3" align="center">
