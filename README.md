@@ -43,17 +43,21 @@
       border="0" />
   </a>
 </td>
-    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <picture>
-        <source
-          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=bondanbanuaji&mode=weekly&hide_border=true&background=00000000&theme=dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=bondanbanuaji&mode=weekly&hide_border=true&background=00000000"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=bondanbanuaji&mode=weekly&hide_border=true" height="100%" />
-      </picture>
-    </a></td>
+<td colspan="3" align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com/?user=bondanbanuaji&mode=weekly&hide_border=true&background=00000000&theme=dark"
+        media="(prefers-color-scheme: dark)" />
+      <source
+        srcset="https://streak-stats.demolab.com/?user=bondanbanuaji&mode=weekly&hide_border=true&background=00000000"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img
+        src="https://streak-stats.demolab.com/?user=bondanbanuaji&mode=weekly&hide_border=true"
+        height="100%" />
+    </picture>
+  </a>
+</td>
   </tr>
   <tr>
 <!-- Thanks @zetaloop! -->
