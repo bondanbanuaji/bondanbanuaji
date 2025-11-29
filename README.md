@@ -36,9 +36,9 @@
 <table width="100%" align="center">
   <tr>
 <td colspan="3" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/henrycunh/github-stats-alpha">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=radical&hide_border=true&include_all_commits=falsse&number_format=long&count_private=false"
+      src="https://github-stats-alpha.vercel.app/api?username=bondanbanuaji&mode=stats&cc=00000066&tc=ffffffcc&ic=ffffff&bc=00000000"
       alt="GitHub Stats for bondanbanuaji"
       border="0" />
   </a>
