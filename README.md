@@ -34,63 +34,105 @@
 </div>
 
 <table width="100%" align="center">
-<tr>
-<td colspan="3" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        height="200"
-        srcset="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
-      <source
-        media="(prefers-color-scheme: light)"
-        height="200"
-        srcset="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
-      <img
-        height="200"
-        src="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=500"
-        alt="GitHub Stats for bondanbanuaji" />
-    </picture>
-  </a>
-</td>
-  <td colspan="3" align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img
-        height="200"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=react-dark&hide_border=true&area=true"
-        alt="GitHub Activity Graph"
-        border="0" />
-    </a>
-  </td>
-</tr>
-    <!-- Thanks @zetaloop! -->
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
+          <img
+            height="200"
+            src="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=500"
+            alt="GitHub Stats" />
+        </picture>
+      </a>
+    </td>
+    <td colspan="3" align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=react-dark&hide_border=true&area=true" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=github-light&hide_border=true&area=true" />
+          <img
+            height="200"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=react-dark&hide_border=true&area=true"
+            alt="GitHub Activity Graph" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_dark" alt="Repos per Language" />
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_dark" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_bright" />
+          <img
+            src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_dark"
+            alt="Repos per Language" />
+        </picture>
       </a>
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_dark" alt="Most Commit Language" />
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_dark" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_bright" />
+          <img
+            src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=bondanbanuaji&border_color=0000&bg_color=0000&theme=nord_dark"
+            alt="Most Commit Language" />
+        </picture>
       </a>
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img 
-          src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=nord_dark" 
-          alt="Productive Time (UTC+7)" />
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=nord_dark" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=nord_bright" />
+          <img
+            src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=nord_dark"
+            alt="Productive Time (UTC+7)" />
+        </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="6" align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=6&row=1" alt="GitHub Trophies" />
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=6&row=1" />
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=flat&no-frame=false&no-bg=true&margin-w=4&column=6&row=1" />
+          <img
+            src="https://github-trophies.vercel.app/?username=bondanbanuaji&theme=monokai&no-frame=false&no-bg=true&margin-w=4&column=6&row=1"
+            alt="GitHub Trophies" />
+        </picture>
       </a>
     </td>
   </tr>
 </table>
-
 <!-- &nbsp;&nbsp;&nbsp;
 
   <span></span>
