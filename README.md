@@ -34,24 +34,35 @@
 </div>
 
 <table width="100%" align="center">
-  <tr>
-    <td colspan="3" align="center">
+<tr>
+<td colspan="3" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=tokyonight&hide_border=true"
-      alt="GitHub Stats for bondanbanuaji" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        height="200"
+        srcset="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
+      <source
+        media="(prefers-color-scheme: light)"
+        height="200"
+        srcset="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=500" />
+      <img
+        height="200"
+        src="https://github-readme-stats-rho-sage-98.vercel.app/api?username=bondanbanuaji&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&card_width=500"
+        alt="GitHub Stats for bondanbanuaji" />
+    </picture>
   </a>
 </td>
-    <td colspan="3" align="center">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=react-dark&hide_border=true&area=true"
-          alt="GitHub Activity Graph"
-          border="0" />
-      </a>
-    </td>
-  </tr>
-  <tr>
+  <td colspan="3" align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img
+        height="200"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=react-dark&hide_border=true&area=true"
+        alt="GitHub Activity Graph"
+        border="0" />
+    </a>
+  </td>
+</tr>
     <!-- Thanks @zetaloop! -->
     <td colspan="2" align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
