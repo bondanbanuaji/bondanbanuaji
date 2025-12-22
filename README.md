@@ -28,16 +28,19 @@
 &nbsp;&nbsp;&nbsp; -->
 
 <div align="center">
-  <img src="assets/zero_love.gif" width="200" alt="Zero Love GIF" />
-</div>
-
-<div align="center">
 
   ![GitHub Trophies](https://count.getloli.com/@bondanbanuaji?name=bondanbanuaji&theme=booru-lewd&padding=10&offset=10&align=top&scale=2&pixelated=1&darkmode=auto)
 
 </div>
 
 <table width="100%" align="center">
+<tr>
+    <td colspan="8" align="center">
+      <div align="center">
+        <img src="assets/zero_love1.gif" width="500" alt="Zero Love GIF" />
+      </div>
+    </td>
+  </tr>
   <tr>
       <td colspan="4" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
