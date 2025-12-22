@@ -28,10 +28,7 @@
 &nbsp;&nbsp;&nbsp; -->
 
 <div align="center">
-<!-- place gif in here
-Pastikan path file benar agar GIF dapat ter-render dengan baik di tampilan GitHub.
--->
-<img src="./assets/zero_love.gif" width="200" alt="Zero Love GIF" />
+  <img src="assets/zero_love.gif" width="200" alt="Zero Love GIF" />
 </div>
 
 <div align="center">
