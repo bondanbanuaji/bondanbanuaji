@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp; -->
 
 <div align="center">
-  <img src="assets/zero_love.gif" width="200" alt="Zero Love GIF" />
+  <img src="assets/zero_2.gif" width="200" alt=".." />
 </div>
 
 <div align="center">
