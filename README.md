@@ -39,7 +39,7 @@
 <tr>
     <td colspan="8" align="center">
       <div align="center">
-        <img src="assets/zero_2tp.gif" width="500" alt="..." />
+        <img src="assets/zero_2tp.gif" width="750" alt="..." />
       </div>
     </td>
   </tr>
