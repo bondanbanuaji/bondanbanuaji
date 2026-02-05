@@ -37,14 +37,24 @@
 
 <table width="100%" align="center">
 <tr>
-    <td colspan="8" align="center">
-      <div align="center">
-        <img src="assets/zero_2tp.gif" width="550" alt="..." />
-      </div>
-    </td>
-  </tr>
+  <td colspan="8" align="center">
+    <a href="https://git.io/typing-svg">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=850&lines=Yo+what's+up!+Welcome+to+my+GitHub+profile;Just+a+dev+who's+obsessed+with+anime+and+clean+code;Grinding+code+all+day+binge+watching+anime+all+night;No+cap+I'm+really+vibing+with+this+full+stack+life;Lowkey+addicted+to+coding+and+highkey+love+anime;Been+grinding+this+developer+journey+for+a+minute+now;Catch+me+debugging+at+3AM+with+anime+OST+on+repeat;Straight+up+living+that+weeb+developer+lifestyle;Ngl+coding+hits+different+when+you're+watching+anime;Let's+build+something+fire+together+fam!" />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=Yo+what's+up!+Welcome+to+my+GitHub+profile;Just+a+dev+who's+obsessed+with+anime+and+clean+code;Grinding+code+all+day+binge+watching+anime+all+night;No+cap+I'm+really+vibing+with+this+full+stack+life;Lowkey+addicted+to+coding+and+highkey+love+anime;Been+grinding+this+developer+journey+for+a+minute+now;Catch+me+debugging+at+3AM+with+anime+OST+on+repeat;Straight+up+living+that+weeb+developer+lifestyle;Ngl+coding+hits+different+when+you're+watching+anime;Let's+build+something+fire+together+fam!" />
+        <img
+          src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=850&lines=Yo+what's+up!+Welcome+to+my+GitHub+profile;Just+a+dev+who's+obsessed+with+anime+and+clean+code;Grinding+code+all+day+binge+watching+anime+all+night;No+cap+I'm+really+vibing+with+this+full+stack+life;Lowkey+addicted+to+coding+and+highkey+love+anime;Been+grinding+this+developer+journey+for+a+minute+now;Catch+me+debugging+at+3AM+with+anime+OST+on+repeat;Straight+up+living+that+weeb+developer+lifestyle;Ngl+coding+hits+different+when+you're+watching+anime;Let's+build+something+fire+together+fam!"
+          alt="Typing SVG" />
+      </picture>
+    </a>
+  </td>
+</tr>
   <tr>
-      <td colspan="4" align="center">
+    <td colspan="4" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <picture>
           <source
@@ -107,21 +117,11 @@
         </picture>
       </a>
     </td>
-    <td colspan="2" align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=vision_friendly_dark" />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=vue" />
-      <img
-        src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=bondanbanuaji&utcOffset=7&border_color=0000&bg_color=0000&theme=vision_friendly_dark"
-        alt="Productive Time (UTC+7)" />
-    </picture>
-  </a>
-</td>
+    <td colspan="4" align="center">
+      <div align="center">
+        <img src="assets/banner.jpg" width="550" alt="..." />
+      </div>
+    </td>
   </tr>
   <tr>
     <td colspan="6" align="center">
@@ -141,9 +141,10 @@
     </td>
   </tr>
 </table>
+
 <!-- &nbsp;&nbsp;&nbsp;
 
-  <span></span>
+  <!-- <span></span>
 <div align="center">
   <span align="center">
     <img src="https://img.shields.io/badge/-AI-007BFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
@@ -202,4 +203,3 @@
     />
   </a>
 </p> -->
-
