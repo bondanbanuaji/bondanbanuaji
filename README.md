@@ -55,18 +55,12 @@
 </tr>
   <tr>
     <td colspan="4" align="center">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <a href="https://github-stats-extended.vercel.app/api?username=bondanbanuaji">
         <picture>
           <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&bg_color=0d1117&color=40c463&line=40c463&point=9be9a8&area=true&hide_border=true" />
-          <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=github-light&hide_border=true&area=true" />
-          <img
-            height="200"
-            src="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=github-light&hide_border=true&area=true"
-            alt="GitHub Activity Graph" />
+            srcset="https://github-stats-extended.vercel.app/api?username=bondanbanuaji&theme=dark_github"
+            media="(prefers-color-scheme: dark)" />
+          <img src="https://github-stats-extended.vercel.app/api?username=bondanbanuaji&theme=light_github" alt="GitHub Stats" />
         </picture>
       </a>
     </td>
