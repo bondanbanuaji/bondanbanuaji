@@ -55,17 +55,18 @@
 </tr>
   <tr>
     <td colspan="4" align="center">
-      <a href="https://github.com/2016rshah/githubchart-api">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://ghchart.rshah.org/00b3ff/bondanbanuaji" />
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&bg_color=0d1117&color=40c463&line=40c463&point=9be9a8&area=true&hide_border=true" />
           <source
             media="(prefers-color-scheme: light)"
-            srcset="https://ghchart.rshah.org/0969da/bondanbanuaji" />
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=github-light&hide_border=true&area=true" />
           <img
-            src="https://ghchart.rshah.org/00b3ff/bondanbanuaji"
-            alt="GitHub Contribution Chart" />
+            height="200"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=bondanbanuaji&theme=github-light&hide_border=true&area=true"
+            alt="GitHub Activity Graph" />
         </picture>
       </a>
     </td>
